@@ -25,7 +25,7 @@ st.markdown("""
     .text-red { color: #dc3545; font-weight: bold; }
     pre { font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.2; }
 </style>
-""", unsafe_style_allowed=True)
+""", unsafe_allow_html=True)
 
 # =====================================================================
 # 1. CORE FINANCIAL MATHEMATICS ENGINES
